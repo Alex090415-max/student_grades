@@ -1,0 +1,13 @@
+
+    General Comments:
+    Charlie showed a Has a basic understanding of the material. Sometimes struggles with applying concepts accurately. understanding of Python.
+    Contribution level was Rarely contributes to discussions or group work. Needs significant improvement in participation..
+    Lab completion was Completes labs but often requires guidance. Submission may be delayed or partially complete..
+    Engagement level was Shows little to no engagement. Rarely participates or shows interest in the class..
+
+    Learner Punctuality:
+    Punctuality was Sometimes late and occasionally misses classes. Needs to improve time management..
+
+    Recommendation on Further Learning:
+    Further learning recommendation: Needs significant improvement before advancing. Strongly recommended to revisit basic concepts and seek tutoring..
+    
